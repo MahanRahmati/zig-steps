@@ -49,7 +49,7 @@ Now run the program again:
 Hello!
 ```
 
-Let's pass there to print function:
+Let's pass "there" to print function:
 
 ```zig
 const std = @import("std");
