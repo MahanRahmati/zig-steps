@@ -28,9 +28,11 @@ var x: u8 = 5;
 This means that our x is a variable and can be changed.
 
 The "u8" is a type that represents an 8-bit unsigned integer.
+
 If we wanted x to hold a negative number, we had to use an "i8" instead.
 
 An "u8" value can hold values from 0 to 255.
+
 An "i8" value can hold values from -128 to 127.
 
 You can use 8, 16, 32 and 64 to represent the number of bits you want to use.
